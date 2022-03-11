@@ -1,9 +1,24 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+.gitignore
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+
+fristtamplate/config
+fristtamplate/node_modules
+fristtamplate/plugins
+fristtamplate/static
+fristtamplate/.eslintrc
+fristtamplate/.npmignore
+fristtamplate/package.json
+fristtamplate/sanity.json
+fristtamplate/tsconfig.json
+fristtamplate/yarn.lock
+
+Firebase-demo.txt
+prettier.config.js
 
 # testing
 /coverage
