@@ -4,7 +4,7 @@
 
 #### You also can give your pull request for this website. 
 
-## Using Language, Framework & Library
+## 💾 Using Language, Framework & Library
 
 - [TypeScript](https://www.typescriptlang.org)
 - [React js](https://reactjs.org)
@@ -14,7 +14,7 @@
 - [Sanity CMS](https://www.sanity.io)
 
 
-## Authors
+## 👨🏼 Authors
 
 - [@gitsu01](https://github.com/gitsu01)
 
