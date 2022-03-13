@@ -14,7 +14,7 @@
 - [Sanity CMS](https://www.sanity.io)
 
 
-## 👨🏼 Authors
+## 👨🏼 Developer
 
 - [@gitsu01](https://github.com/gitsu01)
 
