@@ -4,9 +4,11 @@
 
 #### You also can give your pull request for this website. 
 
-## Using Language
+## Using Language, Framework & Library
 
 - [TypeScript](https://www.typescriptlang.org)
+- [React js](https://reactjs.org)
+- [Next js](https://nextjs.org/)
 - [JavaScript](https://www.javascript.com)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Sanity CMS](https://www.sanity.io)
