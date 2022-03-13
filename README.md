@@ -6,10 +6,11 @@
 
 ## Using Language
 
--[![TypeScript](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitsu01)
--[![JavaScript](https://img.shields.io/badge/instagram-dc2743?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gitsu_official)
--[![Sanity.io](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/gitsu01)
--[![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-000?style=for-the-badge&logo=github&logoColor=white)](https://tailwindcss.com)
+- [TypeScript](https://www.typescriptlang.org)
+- [JavaScript](https://www.javascript.com)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Sanity CMS](https://www.sanity.io)
+
 
 ## Authors
 
